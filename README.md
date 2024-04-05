@@ -34,4 +34,6 @@ This script automates the installation and configuration of Apache Tomcat on a n
    
 `sudo bash tomcat-install-script.sh`
 
+- When creating a new EC2 instance, you can use the script as a user data. The script will be executed during the creation of the instance.
+
 Please feel free to reach out on www.gyenoch@gmail.com
